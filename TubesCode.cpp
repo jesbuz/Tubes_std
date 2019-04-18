@@ -195,6 +195,6 @@ void HapusDosen(multiList &L) {
         cout<<"Dosen berhasil di hapus.\n";
         delete P;
     } else {
-        cout<<"Dosen tidak ditemukan.\n";
+        cout<<"Dosen tidak ditemuka\n";
     }
 }
